@@ -1,4 +1,4 @@
-![sb_jira_createticket dialog.png](./screenshots/sb_jira_createticket dialog.png)
+![sb_jira_createticket dialog.png](./screenshots/sb_jira_createticket_dialog.png)
 
 # Welcome to the Submit Jira Ticket Toolkit App
 
@@ -32,11 +32,11 @@ I would love to hear feedback about this app, any feature requests or bugs you m
 7. Optionally, take a screenshot of the bug or feature request to attach to the ticket
 8. Submit the Ticket to Jira
 
-![sb_jira_createticket dialog 2.png](./screenshots/sb_jira_createticket steps.png)
+![sb_jira_createticket dialog 2.png](./screenshots/sb_jira_createticket_steps.png)
 
 Once the Artist submits a ticket the following screen with the Ticket id will be presented to them
 
-![sb_jira_createticket dialog 2.png](./screenshots/sb_jira_createticket dialog 2.png)
+![sb_jira_createticket dialog 2.png](./screenshots/sb_jira_createticket_dialog_2.png)
 
 ***
 ## Installation
