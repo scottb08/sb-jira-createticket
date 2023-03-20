@@ -39,7 +39,7 @@ requires_shotgun_fields:
 
 # More verbose description of this item
 display_name: "Jira Submit Ticket"
-description: "Riot Pipeline Toolkit app to submit bug or feature Jira tickets to the designated Jira project(s)"
+description: "Pipeline Toolkit app to submit bug or feature Jira tickets to the designated Jira project(s)"
 
 # Required minimum versions for this item to run
 requires_shotgun_version:
